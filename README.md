@@ -1,1 +1,1 @@
-# c23-box-js
+# Box Class
